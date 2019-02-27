@@ -32,7 +32,7 @@
   "dependencies": {
     "mkdirp": "^0.5.1",
     "persist-path": "^1.0.2",
-    "websocket": "^1.0.24"
+    "websocket": "^1.0.28"
   },
   "devDependencies": {
     "camo-purge": "latest",
